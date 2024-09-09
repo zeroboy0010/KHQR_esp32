@@ -4,6 +4,7 @@ Here’s a basic structure for a README file for your GitHub repository:
 
 # ESP32 QR Code Generator with OLED Display
 
+
 This project demonstrates how to generate a KHQR code using an ESP32, display it on an OLED screen, and compute CRC16 and MD5 checksums to confirm trasition payment using MicroPython.
 
 ## Features
@@ -41,3 +42,4 @@ This project demonstrates how to generate a KHQR code using an ESP32, display it
 
 ### 4. Example Output
 ![QR Code Example](image.png)
+[More Information](https://github.com/zeroboy0010/KHQR_generate_and_check_transition))
