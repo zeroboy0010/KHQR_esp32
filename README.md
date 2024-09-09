@@ -43,4 +43,7 @@ This project demonstrates how to generate a KHQR code using an ESP32, display it
 ### 4. Example Output
 ![QR Code Example](image.png)
 
+[wokwi project](https://wokwi.com/projects/408256666515337217)
+
+
 [More Information](https://github.com/zeroboy0010/KHQR_generate_and_check_transition)
